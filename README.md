@@ -21,7 +21,7 @@
 <img src="./images/godot.png" alt= “godot” width="86" height="36"> <img src="./images/blender.png" alt= “blender” width="86" height="36">
 
 #### Works
-links to the site coming soon
+links to the sites coming soon
 
 <!--
 **botdenoms/botdenoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
