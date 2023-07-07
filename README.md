@@ -9,16 +9,17 @@
 
 ### Stack
 #### Mobile App dev
-<img src="./images/flutter.png" alt= “flutter” width="86" height="36"> <img src="./images/reactnative.png" alt= “reactnative” width="86" height="36">
+<img src="./images/firebase-plain-wordmark.svg" alt= “flutter” width="36" height="36"> <img src="./images/react-original.svg" alt= “reactnative” width="36" height="36">
 
 #### Web App dev
-<img src="./images/react.png" alt= “react” width="86" height="36"> <img src="./images/svelte.png" alt= “svelte” width="86" height="36"> <img src="./images/angular.png" alt= “angular” width="86" height="36">
+<img src="./images/react-original.svg" alt= “react” width="36" height="36"> <img src="./images/svelte-original.svg" alt= “svelte” width="36" height="36"> <img src="./images/angularjs-plain.svg" alt= “angular” width="36" height="36"> <img src="./images/nestjs-plain.svg" alt= “next” width="36" height="36"> <img src="./images/flask-original.svg" alt= “flsk” width="36" height="36">
+
 
 #### Backend platforms
-<img src="./images/firebase.png" alt= “firebase” width="86" height="36"> <img src="./images/mongo.png" alt= “mongo” width="86" height="36">
+<img src="./images/firebase-plain.svg" alt= “firebase” width="36" height="36"> <img src="./images/mongodb-original.svg" alt= “mongo” width="36" height="36"> <img src="./images/postgresql-original-wordmark.svg" alt= “postgres” width="36" height="36">
 
 #### Game dev
-<img src="./images/godot.png" alt= “godot” width="86" height="36"> <img src="./images/blender.png" alt= “blender” width="86" height="36">
+<img src="./images/blender-original.svg" alt= “blender” width="36" height="36">  <img src="./images/godot.png" alt= “godot” width="86" height="36"> 
 
 #### Works
 links to the sites coming soon
