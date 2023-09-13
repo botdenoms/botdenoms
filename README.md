@@ -19,7 +19,8 @@
 <img src="./images/firebase-plain-wordmark.svg" alt= “firebase” width="36" height="36"> <img src="./images/mongodb-original.svg" alt= “mongo” width="36" height="36"> <img src="./images/postgresql-original-wordmark.svg" alt= “postgres” width="36" height="36">
 
 #### Game dev
-<img src="./images/blender-original.svg" alt= “blender” width="36" height="36">  <img src="./images/godot.png" alt= “godot” width="86" height="36"> 
+<img src="./images/blender-original.svg" alt= “blender” width="36" height="36"> <img src="./images/unity-original.svg" alt= “blender” width="36" height="36"> <img src="./images/godot.png" alt= “godot” width="86" height="36"> 
+
 
 #### Works
 links to the sites coming soon
