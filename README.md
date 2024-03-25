@@ -1,9 +1,10 @@
 ## Hi, there 🖐👋🖐 Am denoms
 
 ### About Me
-> currently a student of Computer Science & Information Technology
-> curious and interested in everything tech from hardware to software
-> On the side Am an indie game dev and a 3d generalist
+> A Computer Scientist, with a diverse skill sets in the computer science field. from software development,
+> networking, cloud computing, data science and currently learning A.I and ML.
+> Interested in everything tech from hardware to software, 
+> On the side Am an indie game dev and a 3d generalist artist
 
 > I do like bots
 
@@ -22,8 +23,12 @@
 <img src="./images/blender-original.svg" alt= “blender” width="36" height="36"> <img src="./images/unity-original.svg" alt= “blender” width="36" height="36"> <img src="./images/godot-original.svg" alt= “godot” width="36" height="36"> 
 
 
-#### Works
-links to the sites coming soon
+#### Networking
+____
+#### Cloud
+____
+#### Data science
+____
 
 <!--
 **botdenoms/botdenoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
